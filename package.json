@@ -1,0 +1,14 @@
+{
+  "name": "currying",
+  "version": "0.0.1",
+  "description": "Currying functions",
+  "homepage": "https://github.com/vlas-ilya/currying",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vlas-ilya/currying.git"
+  },
+  "scripts": {
+    "test": "node test.js"
+  }
+}
