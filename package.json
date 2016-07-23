@@ -1,6 +1,6 @@
 {
   "name": "currying",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Currying functions",
   "homepage": "https://github.com/vlas-ilya/currying",
   "main": "index.js",
